@@ -1,15 +1,15 @@
-import ToyotaCamry from '../Cars/ToyotaCamry.webp';
-import AudiA4 from '../Cars/AudiA4.webp';
-import BMW3Series from '../Cars/BMW3Series.webp';
-import ChevroletCorvette from '../Cars/ChevroletCorvette.webp';
-import FordMustangGT from '../Cars/FordMustangGT.webp';
-import HondaCivic from '../Cars/HondaCivic.webp';
-import HyundaiCreta from '../Cars/HyundaiCreta.webp';
-import KiaSeltos from '../Cars/KiaSeltos.webp';
-import MarutiSuzukiSwift from '../Cars/MarutiSuzukiSwift.webp';
-import MercedesBenzCClass from '../Cars/MercedesBenzCClass.webp';
-import TataNexon from '../Cars/TataNexon.webp';
-import ToyotaFortuner from '../Cars/ToyotaFortuner.webp';
+const ToyotaCamry = '/cars/ToyotaCamry.webp';
+const AudiA4 = '/cars/AudiA4.webp';
+const BMW3Series = '/cars/BMW3Series.webp';
+const ChevroletCorvette = '/cars/ChevroletCorvette.webp';
+const FordMustangGT = '/cars/FordMustangGT.webp';
+const HondaCivic = '/cars/HondaCivic.webp';
+const HyundaiCreta = '/cars/HyundaiCreta.webp';
+const KiaSeltos = '/cars/KiaSeltos.webp';
+const MarutiSuzukiSwift = '/cars/MarutiSuzukiSwift.webp';
+const MercedesBenzCClass = '/cars/MercedesBenzCClass.webp';
+const TataNexon = '/cars/TataNexon.webp';
+const ToyotaFortuner = '/cars/ToyotaFortuner.webp';
 
 const cars = [
   {
